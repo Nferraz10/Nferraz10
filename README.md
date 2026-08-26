@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-🎓 Estudante de **TADS**
+🎓 desenvolvedor com foco em beckend
 
 ☕ Aprendendo **Java**
 
