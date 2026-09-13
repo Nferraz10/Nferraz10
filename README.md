@@ -10,12 +10,16 @@
 
 ## 🚀 Sobre mim
 
-🎓 desenvolvedor com foco em beckend
+🎓 Foco na área de Dados
 
-☕ Aprendendo **Java**
+⚙️ Aprendendo **SQL**
 
-⚙️ Aprendendo **C**
+⚙️ Aprendendo **Excel**
 
+⚙️ Aprendendo **Power BI**
+
+⚙️ Aprendendo **Python**
+  
 🧠 Estudando **lógica de programação e estruturas de dados**
 
 💻 Desenvolvendo meus primeiros projetos
