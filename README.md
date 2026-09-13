@@ -59,13 +59,5 @@
 
 
 
----
 
-## 📚 Atualmente estudando
 
-```text
-☕ Java
-⚙️ C
-🧠 Lógica de Programação
-🗂️ Estruturas de Dados
-🔧 Git e GitHub
