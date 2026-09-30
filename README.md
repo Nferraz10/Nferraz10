@@ -1,63 +1,81 @@
-<div align="center">
+# 👋 Olá, eu sou Nicolas Ferraz
 
-# 👨‍💻 NICOLAS FERRAZ
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Estudante+de+TADS+💻;Aprendendo+Java+☕;Aprendendo+C+⚙️;Futuro+Desenvolvedor+🚀" />
-
-</div>
+🎓 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas  
+📊 Focado em construir carreira na área de Dados  
+📍 São Paulo, Brasil
 
 ---
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
-🎓 Foco na área de Dados
+Atualmente estou estudando e desenvolvendo minhas habilidades para atuar na área de Dados.
 
-⚙️ Aprendendo **SQL**
+Tenho focado meus estudos principalmente em:
 
-⚙️ Aprendendo **Excel**
+- SQL
+- Excel
+- Power BI
+- Python
+- Banco de Dados
+- Análise de Dados
 
-⚙️ Aprendendo **Power BI**
-
-⚙️ Aprendendo **Python**
-  
-🧠 Estudando **lógica de programação e estruturas de dados**
-
-💻 Desenvolvendo meus primeiros projetos
-
----
-
-## 🛠️ Tecnologias
-
-### 📌 Estudando atualmente
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,mysql" />
-</p>
+Também possuo conhecimentos em desenvolvimento de software adquiridos durante a graduação, incluindo Java, APIs REST, Git/GitHub e bancos de dados relacionais.
 
 ---
 
-### 🛠️ Ferramentas
+## 📚 Atualmente estudando
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+### 📊 Dados
 
----
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![Python](https://img.shields.io/badge/Python-Learning-yellow)
+![Power BI](https://img.shields.io/badge/Power%20BI-Learning-yellow)
+![Excel](https://img.shields.io/badge/Excel-Learning-green)
 
+### 💻 Desenvolvimento
 
-
-
-## 🐍 Minha atividade
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
+![Java](https://img.shields.io/badge/Java-Programming-orange)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
 
 ---
 
+## 🛠️ Ferramentas
 
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Repositories-black)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue)
+![DBeaver](https://img.shields.io/badge/DBeaver-Database-brown)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
 
+---
 
+## 🚀 Projetos
 
+### 💧 Água Alerta
+
+Projeto acadêmico desenvolvido com o objetivo de permitir o registro e acompanhamento de ocorrências relacionadas a problemas de água e saneamento.
+
+**Tecnologias utilizadas:**
+
+- Java
+- Spring Boot
+- PostgreSQL
+- JPA / Hibernate
+- API REST
+- Git e GitHub
+
+No projeto, trabalhei principalmente na integração entre o back-end e o banco de dados, implementando operações de persistência e relacionamentos entre as entidades.
+
+---
+
+## 🎯 Objetivo
+
+Busco desenvolver meus conhecimentos para atuar profissionalmente na área de Dados, trabalhando com análise, tratamento, visualização e interpretação de dados.
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn: [Nicolas Ferraz](https://www.linkedin.com/in/nicolas-silva-526251300)  
+📧 E-mail: [ferraznicolas2102@gmail.com](mailto:ferraznicolas2102@gmail.com)
